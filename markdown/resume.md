@@ -1,10 +1,9 @@
-Johnny Coder
+John Do
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
+>  Devops and Bot maker
 >  quote. Ending a line with a backslash forces a line break.
 
 ----
